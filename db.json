@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "rol": "admin",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "rol": "editor",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "rol": "viewer",
+      "status": "inactive"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "email": "bob.brown@example.com",
+      "rol": "admin",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Davis",
+      "email": "charlie.davis@example.com",
+      "rol": "editor",
+      "status": "inactive"
+    },
+    {
+      "id": 6,
+      "name": "Diana Evans",
+      "email": "diana.evans@example.com",
+      "rol": "viewer",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "name": "Eve White",
+      "email": "eve.white@example.com",
+      "rol": "editor",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "name": "Frank Green",
+      "email": "frank.green@example.com",
+      "rol": "viewer",
+      "status": "inactive"
+    },
+    {
+      "id": 9,
+      "name": "Grace Lee",
+      "email": "grace.lee@example.com",
+      "rol": "admin",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "name": "Henry Taylor",
+      "email": "henry.taylor@example.com",
+      "rol": "viewer",
+      "status": "active"
+    }
+  ]
+}
