@@ -1,7 +1,7 @@
 import { fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 export const baseQuery = fetchBaseQuery({
-   baseUrl: 'https://xideral-test.vercel.app',
+   baseUrl: 'http://localhost:4000',
    prepareHeaders: (headers, {getState}) => {
       return headers
    }
